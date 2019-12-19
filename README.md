@@ -2,8 +2,6 @@
 
 ### create a new repository on the command line
 
-echo "# git-cli" >> README.md
-
 git init
 
 git add README.md
